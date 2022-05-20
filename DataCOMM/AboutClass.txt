@@ -1,0 +1,2 @@
+Alot of the code in this class was templated, so I feel this isn't the best example of my coding abilities. 
+It did however teach me a basis for how to programmatically interact with TCP connections.
